@@ -139,6 +139,7 @@ body {
       height: 2px;
       background: #d4a017;
       margin: 0 auto 5px;
+      margin-top: -10px;
     }
     .g1{
       height: 10px;
@@ -169,4 +170,13 @@ body {
  width: 150px; 
  height: auto;
  z-index: 4;
+}
+.signature-img {
+ width: 100px;
+ height: auto;
+ margin-bottom: 5px;
+ margin-top: -10px;
+}
+.newsign{
+  margin-bottom: 10px;
 }
